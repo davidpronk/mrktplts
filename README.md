@@ -9,6 +9,6 @@ Add `mrktplts.user.js` to Tampermonkey for `http://marktplaats.nl/*`
 
 
 ### Mozilla Firefox
-Install the Greasemonkey browser addon from [Mozialla Addons](http://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Greasemonkey website](http://www.greasespot.net/)
+Install the Greasemonkey browser addon from [Mozilla Addons](http://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Greasemonkey website](http://www.greasespot.net/)
 
 Add `mrktplts.user.js` to Greasemonkey for `http://marktplaats.nl/*`
