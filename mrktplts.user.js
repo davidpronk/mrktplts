@@ -17,7 +17,7 @@ if ( typeof jQuery !== 'undefined' ) {
             nodeContent = $( node ).text();
 
         if( nodeContent.indexOf( 'Bezorgt' ) !== -1 ){
-            $( node ).parents( '.search-result' ).remove()
+            $( node ).parents( '.search-result' ).remove();
         }
 
     }
