@@ -2,7 +2,7 @@
 // @name        mrktplts
 // @namespace   nl.davidpronk.mrktplts
 // @description Remove commercial offers from Marktplaats search results
-// @include     http://www.marktplaats.nl/*
+// @include     https://www.marktplaats.nl/*
 // @grant       none
 // @version     0.2
 // ==/UserScript==
