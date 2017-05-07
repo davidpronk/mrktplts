@@ -4,7 +4,7 @@
 // @description Remove commercial offers from Marktplaats search results
 // @include     https://www.marktplaats.nl/*
 // @grant       none
-// @version     0.2
+// @version     0.3
 // ==/UserScript==
 
 (function() {
