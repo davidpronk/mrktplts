@@ -7,7 +7,6 @@ Install the Tampermonkey browser extension from the [Chrome Web Store](http://ch
 
 Add `mrktplts.user.js` to Tampermonkey for `http://marktplaats.nl/*`
 
-
 ### Mozilla Firefox
 Install the Greasemonkey browser addon from [Mozilla Addons](http://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Greasemonkey website](http://www.greasespot.net/)
 
